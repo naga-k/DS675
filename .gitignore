@@ -1,0 +1,7 @@
+data/
+checkpoints/
+envs/
+output/
+runs/
+fashionmnist.zip
+**/__pycache__/
